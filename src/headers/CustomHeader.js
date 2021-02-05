@@ -11,7 +11,7 @@ const CustomHeader = (props) => {
     </View>
   );
 }
-
+    
 export default CustomHeader;
 
 
